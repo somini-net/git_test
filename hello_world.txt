@@ -1,0 +1,2 @@
+
+"Not sure why the vs code terminal isnt recognising my git repositories."
